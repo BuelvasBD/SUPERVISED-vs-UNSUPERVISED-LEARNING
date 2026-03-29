@@ -7,7 +7,7 @@ This repository contains a synthetic dataset designed to simulate a real-world s
 - `student_dropout_synthetic.csv`
 
 ## Number of Records
-- 600 student records
+- 500 student records
 
 ---
 
